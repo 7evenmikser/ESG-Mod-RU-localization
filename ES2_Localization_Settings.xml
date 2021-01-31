@@ -4,15 +4,15 @@
   
   <!-- Settings
        Luxury Type Quantities -->
-  <LocalizationPair Name="%SettingLuxuryTypesTitle">Количество типов ресурсов роскоши.</LocalizationPair>
+  <LocalizationPair Name="%SettingLuxuryTypesTitle">Типов ресурсов роскоши</LocalizationPair>
   <LocalizationPair Name="%SettingLuxuryTypesDescription">Как много типов ресурсов роскоши будет размещено на планетах. </LocalizationPair>
-  <LocalizationPair Name="%SettingSettingLuxuryTypesLowTitle">Низкое</LocalizationPair>
+  <LocalizationPair Name="%SettingSettingLuxuryTypesLowTitle">Немного</LocalizationPair>
   <LocalizationPair Name="%SettingLuxuryTypesLowDescription">4 обычных, 2 необычных и 2 редких. (Рекомендуется для галлактики крохотных размеров)</LocalizationPair>
-  <LocalizationPair Name="%SettingSettingLuxuryTypesMediumTitle">Среднее</LocalizationPair>
+  <LocalizationPair Name="%SettingSettingLuxuryTypesMediumTitle">Средне</LocalizationPair>
   <LocalizationPair Name="%SettingLuxuryTypesMediumDescription">6 обычных, 3 необычных и 3 редких. Автоматически раскрывает 5 типов ресурсов роскоши. (Рекомендуется для галлактики маленьких размеров)</LocalizationPair>
-  <LocalizationPair Name="%SettingSettingLuxuryTypesHighTitle">High</LocalizationPair>
+  <LocalizationPair Name="%SettingSettingLuxuryTypesHighTitle">Много</LocalizationPair>
   <LocalizationPair Name="%SettingLuxuryTypesHighDescription">8 обычных, 4 необычных и 4 редких. Автоматически раскрывает 8 типов ресурсов роскоши. (Рекомендуется длягаллактики средних размеров и выше)</LocalizationPair>
-  <LocalizationPair Name="%SettingSettingLuxuryTypesAllTitle">All</LocalizationPair>
+  <LocalizationPair Name="%SettingSettingLuxuryTypesAllTitle">Все</LocalizationPair>
   <LocalizationPair Name="%SettingLuxuryTypesAllDescription">8 обычных, 8 необычных и 8 редких. Автоматически раскрывает 10 типов ресурсов роскоши.
 #FF0000#Может вызвать проблемы с генерацией мира - будьне осторожны.#REVERT#
   </LocalizationPair>
@@ -23,9 +23,9 @@
   <LocalizationPair Name="%SettingAnimationSpeedMultiplier16Title">Быстрее ускоренной (16x)</LocalizationPair>
   <LocalizationPair Name="%SettingAnimationSpeedMultiplier16Description">Анимация будет проигрываться в 16 раз быстрее.</LocalizationPair>
   <LocalizationPair Name="%SettingAnimationSpeedMultiplier32Title">Очень быстрая (32x)</LocalizationPair>
-  <LocalizationPair Name="%SettingAnimationSpeedMultiplier32Description">Анимация будет проигрываться в 32 раз быстрее.</LocalizationPair>
+  <LocalizationPair Name="%SettingAnimationSpeedMultiplier32Description">Анимация будет проигрываться в 32 раза быстрее.</LocalizationPair>
   <LocalizationPair Name="%SettingAnimationSpeedMultiplier64Title">Мнгновенная (64x)</LocalizationPair>
-  <LocalizationPair Name="%SettingAnimationSpeedMultiplier64Description">Анимация будет проигрываться в 64 раз быстрее.
+  <LocalizationPair Name="%SettingAnimationSpeedMultiplier64Description">Анимация будет проигрываться в 64 раза быстрее.
 #6F737A#"Есть ощущение, что когда я это включаю, я больше не могу выключить" - ANGRYABOUTELVES#REVERT#
   </LocalizationPair>
 
@@ -37,11 +37,11 @@
   <LocalizationPair Name="%SettingEndTurnTimerGlobalDuration7200Title">2 часа</LocalizationPair>
   <LocalizationPair Name="%SettingEndTurnTimerGlobalDuration7200Description">2 часа</LocalizationPair>
   <LocalizationPair Name="%SettingEndTurnTimerGlobalDuration21600Title">6 hours</LocalizationPair>
-  <LocalizationPair Name="%SettingEndTurnTimerGlobalDuration21600Description">6 hours</LocalizationPair>
-  <LocalizationPair Name="%SettingEndTurnTimerGlobalDuration25200Title">7 hours</LocalizationPair>
-  <LocalizationPair Name="%SettingEndTurnTimerGlobalDuration25200Description">7 hours</LocalizationPair>
-  <LocalizationPair Name="%SettingEndTurnTimerGlobalDuration28800Title">8 hours</LocalizationPair>
-  <LocalizationPair Name="%SettingEndTurnTimerGlobalDuration28800Description">8 hours</LocalizationPair>
+  <LocalizationPair Name="%SettingEndTurnTimerGlobalDuration21600Description">6 часов</LocalizationPair>
+  <LocalizationPair Name="%SettingEndTurnTimerGlobalDuration25200Title">7 часов</LocalizationPair>
+  <LocalizationPair Name="%SettingEndTurnTimerGlobalDuration25200Description">7 часов</LocalizationPair>
+  <LocalizationPair Name="%SettingEndTurnTimerGlobalDuration28800Title">8 часов</LocalizationPair>
+  <LocalizationPair Name="%SettingEndTurnTimerGlobalDuration28800Description">8 часов</LocalizationPair>
 
   <!-- End Turn Limit -->
   <LocalizationPair Name="%SettingEndTurnTimerDuration360Title">360 секунд</LocalizationPair>
@@ -68,8 +68,8 @@
   <LocalizationPair Name="%SettingEndTurnTimerSystemAdditionalDuration50Description">50 секунд</LocalizationPair>
   <LocalizationPair Name="%SettingEndTurnTimerSystemAdditionalDuration60Title">1 минута</LocalizationPair>
   <LocalizationPair Name="%SettingEndTurnTimerSystemAdditionalDuration60Description">1 минута</LocalizationPair>
-  <LocalizationPair Name="%SettingEndTurnTimerSystemAdditionalDuration120Title">2 минут</LocalizationPair>
-  <LocalizationPair Name="%SettingEndTurnTimerSystemAdditionalDuration120Description">2 минут</LocalizationPair>
+  <LocalizationPair Name="%SettingEndTurnTimerSystemAdditionalDuration120Title">2 минуты</LocalizationPair>
+  <LocalizationPair Name="%SettingEndTurnTimerSystemAdditionalDuration120Description">2 минуты</LocalizationPair>
 
   <!-- Overtime -->
   <LocalizationPair Name="%SettingMaxOvertime15Title">15 секунд</LocalizationPair>
@@ -85,7 +85,7 @@
 
   <!-- Extra Time if Last Player -->
   <LocalizationPair Name="%SettingEndTurnTimerLastPlayerDuration0Title">0 секунд</LocalizationPair>
-  <LocalizationPair Name="%SettingEndTurnTimerLastPlayerDuration0Description">No bonus</LocalizationPair>
+  <LocalizationPair Name="%SettingEndTurnTimerLastPlayerDuration0Description">0 секунд</LocalizationPair>
   <LocalizationPair Name="%SettingEndTurnTimerLastPlayerDuration10Title">10 секунд</LocalizationPair>
   <LocalizationPair Name="%SettingEndTurnTimerLastPlayerDuration10Description">10 секунд</LocalizationPair>
   <LocalizationPair Name="%SettingEndTurnTimerLastPlayerDuration120Title">2 минуты</LocalizationPair>
@@ -116,7 +116,7 @@
   <LocalizationPair Name="%SettingHackingOutcomeTimerDuration240Description">4 минуты</LocalizationPair>
 
   <!-- Minor Factions Quantity -->
-  <LocalizationPair Name="%SettingMinorFactionsQuantityTitle">Количество Малых Цивилизаций на игрока</LocalizationPair>
+  <LocalizationPair Name="%SettingMinorFactionsQuantityTitle">Малых Цивилизаций на каждого игрока</LocalizationPair>
   <LocalizationPair Name="%SettingMinorFactionsQuantityDescription">Идеальное количество Малых Цивилизаций на каждого игрока в галлактике</LocalizationPair>
   <LocalizationPair Name="%SettingMinorFactionsQuantity0Title">0</LocalizationPair>
   <LocalizationPair Name="%SettingMinorFactionsQuantity0Description">Малые цивилизации будут отсутствовать в игре
@@ -141,14 +141,14 @@
 
   <!-- Allow PVP Hacking -->
   <LocalizationPair Name="%SettingAllowPVPHackingTitle">Включить PVP Взлом</LocalizationPair>
-  <LocalizationPair Name="%SettingAllowPVPHackingDescription">Отключает варианты взлома напрямую мешающие другим игрокам.</LocalizationPair>
+  <LocalizationPair Name="%SettingAllowPVPHackingDescription">Включает/выключает варианты взлома напрямую вредящие другим игрокам.</LocalizationPair>
   <LocalizationPair Name="%SettingAllowPVPHackingTrueTitle">Вкл</LocalizationPair>
   <LocalizationPair Name="%SettingAllowPVPHackingTrueDescription">Вкл</LocalizationPair>
   <LocalizationPair Name="%SettingAllowPVPHackingFalseTitle">Выкл</LocalizationPair>
   <LocalizationPair Name="%SettingAllowPVPHackingFalseDescription">Выкл</LocalizationPair>
 
   <!-- Allow Academy Expansion -->
-  <LocalizationPair Name="%SettingAllowAcademyExpansionTitle">Включить экспансию академии</LocalizationPair>
+  <LocalizationPair Name="%SettingAllowAcademyExpansionTitle">Разрешить экспансию академии</LocalizationPair>
   <LocalizationPair Name="%SettingAllowAcademyExpansionDescription">Не позволяет Академии расширяться самостоятельно. (Накалимы по прежнему могут жертвовать ей)</LocalizationPair>
   <LocalizationPair Name="%SettingAllowAcademyExpansionTrueTitle">Вкл</LocalizationPair>
   <LocalizationPair Name="%SettingAllowAcademyExpansionTrueDescription">Вкл</LocalizationPair>
@@ -156,76 +156,76 @@
   <LocalizationPair Name="%SettingAllowAcademyExpansionFalseDescription">Выкл</LocalizationPair>
 
   <!-- Minor Factions Quantity -->
-  <LocalizationPair Name="%SettingUniquePlanetQuantityTitle">Количество уникальных планет</LocalizationPair>
+  <LocalizationPair Name="%SettingUniquePlanetQuantityTitle">Уникальных планет</LocalizationPair>
   <LocalizationPair Name="%SettingUniquePlanetQuantityDescription">Идеальное количество не домашних уникальных планет в галлактике</LocalizationPair>
   <LocalizationPair Name="%SettingUniquePlanetQuantity0Title">0</LocalizationPair>
   <LocalizationPair Name="%SettingUniquePlanetQuantity0Description">Ни одной уникальной планеты, кроме домашних.</LocalizationPair>
   <LocalizationPair Name="%SettingUniquePlanetQuantity1Title">1</LocalizationPair>
-  <LocalizationPair Name="%SettingUniquePlanetQuantity1Description">1 не домашняя уникальная планета. (Рекомендуется для галлактики крохотного размера)</LocalizationPair>
+  <LocalizationPair Name="%SettingUniquePlanetQuantity1Description">1 не домашняя уникальная планета в галлатике. (Рекомендуется для галлактики крохотного размера)</LocalizationPair>
   <LocalizationPair Name="%SettingUniquePlanetQuantity2Title">2</LocalizationPair>
-  <LocalizationPair Name="%SettingUniquePlanetQuantity2Description">2 non faction-specific Unique planets will be placed into the galaxy. (Рекомендуется для галлактики маленького размера)</LocalizationPair>
+  <LocalizationPair Name="%SettingUniquePlanetQuantity2Description">2 не домашние уникальные планеты в галлатике. (Рекомендуется для галлактики маленького размера)</LocalizationPair>
   <LocalizationPair Name="%SettingUniquePlanetQuantity3Title">3</LocalizationPair>
-  <LocalizationPair Name="%SettingUniquePlanetQuantity3Description">3 non faction-specific Unique planets will be placed into the galaxy. (Рекомендуется для галлактики среднего размера)</LocalizationPair>
+  <LocalizationPair Name="%SettingUniquePlanetQuantity3Description">3 не домашние уникальные планеты в галлатике. (Рекомендуется для галлактики среднего размера)</LocalizationPair>
   <LocalizationPair Name="%SettingUniquePlanetQuantity4Title">4</LocalizationPair>
-  <LocalizationPair Name="%SettingUniquePlanetQuantity4Description">4 non faction-specific Unique planets will be placed into the galaxy. (Рекомендуется для галлактики большого размера)</LocalizationPair>
+  <LocalizationPair Name="%SettingUniquePlanetQuantity4Description">4 не домашние уникальные планеты в галлатике. (Рекомендуется для галлактики большого размера)</LocalizationPair>
   <LocalizationPair Name="%SettingUniquePlanetQuantity5Title">5</LocalizationPair>
-  <LocalizationPair Name="%SettingUniquePlanetQuantity5Description">5 non faction-specific Unique planets will be placed into the galaxy. (Рекомендуется для галлактики огромного размера)</LocalizationPair>
+  <LocalizationPair Name="%SettingUniquePlanetQuantity5Description">5 не домашних уникальных планет в галлатике. (Рекомендуется для галлактики огромного размера)</LocalizationPair>
   <LocalizationPair Name="%SettingUniquePlanetQuantity6Title">6</LocalizationPair>
-  <LocalizationPair Name="%SettingUniquePlanetQuantity6Description">6 non faction-specific Unique planets will be placed into the galaxy. (Рекомендуется для галлактики колоссального размера)</LocalizationPair>
+  <LocalizationPair Name="%SettingUniquePlanetQuantity6Description">6 не домашних уникальных планет в галлатике. (Рекомендуется для галлактики колоссального размера)</LocalizationPair>
   <LocalizationPair Name="%SettingUniquePlanetQuantity7Title">7</LocalizationPair>
-  <LocalizationPair Name="%SettingUniquePlanetQuantity7Description">7 non faction-specific Unique planets will be placed into the galaxy. (Рекомендуется для галлактики исключительного размера)</LocalizationPair>
+  <LocalizationPair Name="%SettingUniquePlanetQuantity7Description">7 не домашних уникальных планет в галлатике. (Рекомендуется для галлактики исключительного размера)</LocalizationPair>
   <LocalizationPair Name="%SettingUniquePlanetQuantity8Title">8</LocalizationPair>
-  <LocalizationPair Name="%SettingUniquePlanetQuantity8Description">8 non faction-specific Unique planets will be placed into the galaxy.</LocalizationPair>
+  <LocalizationPair Name="%SettingUniquePlanetQuantity8Description">8 не домашних уникальных планет в галлатике.</LocalizationPair>
 
   <!-- AI Personality -->
-  <LocalizationPair Name="%SettingRandomAIPersonalitiesTitle">Randomize AI Personalities</LocalizationPair>
-  <LocalizationPair Name="%SettingRandomAIPersonalitiesDescription">Enabling this will give AI empires their random personalities without any restrictions, allowing you to find things such as Mercantile Pacifist Cravers who just wants to be buds with you as he expands his merchant fleet, or a Cruel Militarist Unfallen who wants to use his vines to spread death across the galaxy.</LocalizationPair>
-  <LocalizationPair Name="%SettingRandomAIPersonalitiesTrueTitle">True</LocalizationPair>
-  <LocalizationPair Name="%SettingRandomAIPersonalitiesTrueDescription">AI Personalities will be randomized</LocalizationPair>
-  <LocalizationPair Name="%SettingRandomAIPersonalitiesFalseTitle">False</LocalizationPair>
-  <LocalizationPair Name="%SettingRandomAIPersonalitiesFalseDescription">AI Personalities will be vanilla</LocalizationPair>
+  <LocalizationPair Name="%SettingRandomAIPersonalitiesTitle">Случайные ИИ личности</LocalizationPair>
+  <LocalizationPair Name="%SettingRandomAIPersonalitiesDescription">Включение этой настройки задаст ИИ случайные особенности фракций без каких-либо ограничений. Вы сможете встретить меркантильных, пацифистов Пожирателей, которые просто хотят дружить или жестоких милитаристов Несгибаемых, желающих использовать свои лозы, дабы нести смерть по всей галлактике. </LocalizationPair>
+  <LocalizationPair Name="%SettingRandomAIPersonalitiesTrueTitle">Вкл</LocalizationPair>
+  <LocalizationPair Name="%SettingRandomAIPersonalitiesTrueDescription">ИИ личности будут случайны</LocalizationPair>
+  <LocalizationPair Name="%SettingRandomAIPersonalitiesFalseTitle">Выкл</LocalizationPair>
+  <LocalizationPair Name="%SettingRandomAIPersonalitiesFalseDescription">ИИ личности будут стандартными</LocalizationPair>
 
   <!-- Unique Terraformation -->
-  <LocalizationPair Name="%SettingTerraformUniquesTitle">Enable Unique Terraformation</LocalizationPair>
-  <LocalizationPair Name="%SettingTerraformUniquesDescription">Enabling this will allow you to terraform unique planets. Disabling this will make it just like vanilla.</LocalizationPair>
-  <LocalizationPair Name="%SettingTerraformUniquesTrueTitle">True</LocalizationPair>
-  <LocalizationPair Name="%SettingTerraformUniquesTrueDescription">You will be able to terraform unique planets.</LocalizationPair>
-  <LocalizationPair Name="%SettingTerraformUniquesFalseTitle">False</LocalizationPair>
-  <LocalizationPair Name="%SettingTerraformUniquesFalseDescription">You will not be able to terraform unique planets.</LocalizationPair>
+  <LocalizationPair Name="%SettingTerraformUniquesTitle">Терраформирование уникальных планет</LocalizationPair>
+  <LocalizationPair Name="%SettingTerraformUniquesDescription">Позволяет терраформировать уникальные планеты.</LocalizationPair>
+  <LocalizationPair Name="%SettingTerraformUniquesTrueTitle">Вкл</LocalizationPair>
+  <LocalizationPair Name="%SettingTerraformUniquesTrueDescription">Вы сможете терраформировать уникальные планеты.</LocalizationPair>
+  <LocalizationPair Name="%SettingTerraformUniquesFalseTitle">Выкл</LocalizationPair>
+  <LocalizationPair Name="%SettingTerraformUniquesFalseDescription">Вы не сможете терраформировать уникальные планеты.</LocalizationPair>
 
   <!-- Free Terraformation -->
-  <LocalizationPair Name="%SettingFreeTerraformationTitle">Enable Free Terraformation</LocalizationPair>
-  <LocalizationPair Name="%SettingFreeTerraformationDescription">Enabling this will allow you to terraform planets to and from Sterile and Fertile.</LocalizationPair>
-  <LocalizationPair Name="%SettingFreeTerraformationTrueTitle">True</LocalizationPair>
-  <LocalizationPair Name="%SettingFreeTerraformationTrueDescription">You will be able to terraform planets to and from Sterile and Fertile.</LocalizationPair>
-  <LocalizationPair Name="%SettingFreeTerraformationFalseTitle">False</LocalizationPair>
-  <LocalizationPair Name="%SettingFreeTerraformationFalseDescription">You will only be able to use vanilla terraformation.</LocalizationPair>
+  <LocalizationPair Name="%SettingFreeTerraformationTitle">Свободное терраформирование</LocalizationPair>
+  <LocalizationPair Name="%SettingFreeTerraformationDescription">Позволяет терраформировать планеты из бесплодных в плодородные и обратно.</LocalizationPair>
+  <LocalizationPair Name="%SettingFreeTerraformationTrueTitle">Вкл</LocalizationPair>
+  <LocalizationPair Name="%SettingFreeTerraformationTrueDescription">Вы сможете терраформировать планеты из бесплодных в плодородные и наоборот.</LocalizationPair>
+  <LocalizationPair Name="%SettingFreeTerraformationFalseTitle">Выкл</LocalizationPair>
+  <LocalizationPair Name="%SettingFreeTerraformationFalseDescription">Вы не сможете терраформировать планеты из бесплодных в плодородные и наоборот.</LocalizationPair>
 
   <!-- Curiosity Frequency -->
-  <LocalizationPair Name="%SettingCuriosityAbundanceGenerousTitle">Generous</LocalizationPair>
+  <LocalizationPair Name="%SettingCuriosityAbundanceGenerousTitle">Феноменальная щедрость</LocalizationPair>
   <LocalizationPair Name="%SettingCuriosityAbundanceGenerousDescription">Every system will have more than their share of curiosities.</LocalizationPair>
-  <LocalizationPair Name="%SettingCuriosityAbundanceBountifulTitle">Bountiful</LocalizationPair>
-  <LocalizationPair Name="%SettingCuriosityAbundanceBountifulDescription">Every system will have a large amount of curiosities.</LocalizationPair>
+  <LocalizationPair Name="%SettingCuriosityAbundanceBountifulTitle">Щедро</LocalizationPair>
+  <LocalizationPair Name="%SettingCuriosityAbundanceBountifulDescription">Каждая система получит большое количество феноменов.</LocalizationPair>
 
   <!-- Anomaly Frequency -->
-  <LocalizationPair Name="%SettingAnomalyAbundanceGenerousTitle">Generous</LocalizationPair>
-  <LocalizationPair Name="%SettingAnomalyAbundanceGenerousDescription">Ideally every planet will have an anomaly, but we know the gods of RNG will not allow that.</LocalizationPair>
-  <LocalizationPair Name="%SettingAnomalyAbundanceBountifulTitle">Bountiful</LocalizationPair>
-  <LocalizationPair Name="%SettingAnomalyAbundanceBountifulDescription">Every planet will have ~3 anomalies, but some might be selfish and have more than their fair share.</LocalizationPair>
+  <LocalizationPair Name="%SettingAnomalyAbundanceGenerousTitle">Аномальная щедрость</LocalizationPair>
+  <LocalizationPair Name="%SettingAnomalyAbundanceGenerousDescription">В идеале каждая планета должна иметь анломалию, но мы знаем, что бог рандома этого не допустит.</LocalizationPair>
+  <LocalizationPair Name="%SettingAnomalyAbundanceBountifulTitle">Щедро</LocalizationPair>
+  <LocalizationPair Name="%SettingAnomalyAbundanceBountifulDescription">Каждая планета получит около 3 аномалий, но некоторые могут быть эгоистичными и иметь больше, чем им полагается.</LocalizationPair>
 
   <!-- Wonders Quantity -->
-  <LocalizationPair Name="%SettingWondersQuantityTitle">Wonders Quantity</LocalizationPair>
-  <LocalizationPair Name="%SettingWondersQuantityDescription">Determines the quantity of unique anomalies that will spawn. These are very powerful, so be wary.</LocalizationPair>
+  <LocalizationPair Name="%SettingWondersQuantityTitle">Чудесные аномалии</LocalizationPair>
+  <LocalizationPair Name="%SettingWondersQuantityDescription">Определяет количество чудесных (уникальных) аномалий в галлактике. Они очень мощные, так что аккуратнее с ними.</LocalizationPair>
   <LocalizationPair Name="%SettingWondersQuantity0Title">0</LocalizationPair>
-  <LocalizationPair Name="%SettingWondersQuantity0Description">No unique аномалий. (Не рекомендуется)</LocalizationPair>
+  <LocalizationPair Name="%SettingWondersQuantity0Description">Нет уникальных аномалий. (Не рекомендуется)</LocalizationPair>
   <LocalizationPair Name="%SettingWondersQuantity1Title">1</LocalizationPair>
-  <LocalizationPair Name="%SettingWondersQuantity1Description">1 уникальная anomaly will spawn. (Рекомендуется для галлактики крохотного размера)</LocalizationPair>
+  <LocalizationPair Name="%SettingWondersQuantity1Description">1 уникальная аномалия. (Рекомендуется для галлактики крохотного размера)</LocalizationPair>
   <LocalizationPair Name="%SettingWondersQuantity2Title">2</LocalizationPair>
-  <LocalizationPair Name="%SettingWondersQuantity2Description">2 уникальные аномалий. (Рекомендуется для галлактики маленького размера)</LocalizationPair>
+  <LocalizationPair Name="%SettingWondersQuantity2Description">2 уникальные аномалии. (Рекомендуется для галлактики маленького размера)</LocalizationPair>
   <LocalizationPair Name="%SettingWondersQuantity3Title">3</LocalizationPair>
-  <LocalizationPair Name="%SettingWondersQuantity3Description">3 уникальные аномалий. (Рекомендуется для галлактики среднего размер)</LocalizationPair>
+  <LocalizationPair Name="%SettingWondersQuantity3Description">3 уникальные аномалии. (Рекомендуется для галлактики среднего размер)</LocalizationPair>
   <LocalizationPair Name="%SettingWondersQuantity4Title">4</LocalizationPair>
-  <LocalizationPair Name="%SettingWondersQuantity4Description">4 уникальные аномалий. (Рекомендуется для галлактики большого размера)</LocalizationPair>
+  <LocalizationPair Name="%SettingWondersQuantity4Description">4 уникальные аномалии. (Рекомендуется для галлактики большого размера)</LocalizationPair>
   <LocalizationPair Name="%SettingWondersQuantity5Title">5</LocalizationPair>
   <LocalizationPair Name="%SettingWondersQuantity5Description">5 уникальных аномалий. (Рекомендуется для галлактики большого и огромного размера)</LocalizationPair>
   <LocalizationPair Name="%SettingWondersQuantity6Title">6</LocalizationPair>
@@ -236,32 +236,32 @@
   <LocalizationPair Name="%SettingWondersQuantity8Description">8 уникальных аномалий. (Рекомендуется для галлактики исключительного размера)</LocalizationPair>
 
   <!-- Game Size Multiplier -->
-  <LocalizationPair Name="%SettingGameSizeMultiplierTitle">Game Multiplier</LocalizationPair>
-  <LocalizationPair Name="%SettingGameSizeMultiplierDescription">Leave this at 1 if you don't care. You can use this to adjust for having not enough players in a large map by increasing the multiplier, or by lowering it to below 1 to compensate for having too many players in a small map. All this does is increase/decrease colonization limit and multiply the number of minor factions that spawn.</LocalizationPair>
+  <LocalizationPair Name="%SettingGameSizeMultiplierTitle">Игровой множитель</LocalizationPair>
+  <LocalizationPair Name="%SettingGameSizeMultiplierDescription">Оставьте 1, если вам не важно. Вы можете использовать этот множитель, что бы компенсировать недостаток игроков на большой карте, или же наоборот, компенсировать недостатки маленькой карты, при большом количестве игроков. Увеличение множителя приведёт к увеличения колонизационного лимита (вы сможете занять больше систем без штрафов), а его уменьшение снизит этот лимит. Множитель также влияет на количество малых цивилизаций, при генерации галлактики.  </LocalizationPair>
   <LocalizationPair Name="%SettingGameSizeMultiplier0.25Title">0.25</LocalizationPair>
-  <LocalizationPair Name="%SettingGameSizeMultiplier0.25Description">You will have a 1/4x as big overcolonization limit and 1/4x as many minor factions will spawn.</LocalizationPair>
+  <LocalizationPair Name="%SettingGameSizeMultiplier0.25Description">Колонизационный лимит снизится в 4 раза, количество малых цивилизаций в галлактике так же снизится в 4 раза.</LocalizationPair>
   <LocalizationPair Name="%SettingGameSizeMultiplier0.5Title">0.5</LocalizationPair>
-  <LocalizationPair Name="%SettingGameSizeMultiplier0.5Description">You will have a 1/2x as big overcolonization limit and 1/2x as many minor factions will spawn.</LocalizationPair>
+  <LocalizationPair Name="%SettingGameSizeMultiplier0.5Description">Колонизационный лимит снизится в 2 раза, количество малых цивилизаций в галлактике так же снизится в 2 раза.</LocalizationPair>
   <LocalizationPair Name="%SettingGameSizeMultiplier0.75Title">0.75</LocalizationPair>
-  <LocalizationPair Name="%SettingGameSizeMultiplier0.75Description">You will have a 3/4x as big overcolonization limit and 3/4x as many minor factions will spawn.</LocalizationPair>
+  <LocalizationPair Name="%SettingGameSizeMultiplier0.75Description">Колонизационный лимит снизится в 1.5 раза, количество малых цивилизаций в галлактике так же снизится в 1.5 раза.</LocalizationPair>
   <LocalizationPair Name="%SettingGameSizeMultiplier1Title">1</LocalizationPair>
-  <LocalizationPair Name="%SettingGameSizeMultiplier1Description">You will have the standard overcolonization limit and the set number of minor factions will spawn.</LocalizationPair>
+  <LocalizationPair Name="%SettingGameSizeMultiplier1Description">Стандартный колонизационный лимит, стандартное количество малых.</LocalizationPair>
   <LocalizationPair Name="%SettingGameSizeMultiplier1.5Title">1.5</LocalizationPair>
-  <LocalizationPair Name="%SettingGameSizeMultiplier1.5Description">You will have a 3/2x as big overcolonization limit and 3/2x as many minor factions will spawn.</LocalizationPair>
+  <LocalizationPair Name="%SettingGameSizeMultiplier1.5Description">Колонизационный лимит повысится в 1.5 раза, количество малых цивилизаций в галлактике так же повысится в 1.5 раза.</LocalizationPair>
   <LocalizationPair Name="%SettingGameSizeMultiplier2Title">2</LocalizationPair>
-  <LocalizationPair Name="%SettingGameSizeMultiplier2Description">You will have a 2x as big overcolonization limit and 2x as many minor factions will spawn.</LocalizationPair>
+  <LocalizationPair Name="%SettingGameSizeMultiplier2Description">Колонизационный лимит повысится в 2 раза, количество малых цивилизаций в галлактике так же повысится в 2 раза.</LocalizationPair>
   <LocalizationPair Name="%SettingGameSizeMultiplier2.5Title">2.5</LocalizationPair>
-  <LocalizationPair Name="%SettingGameSizeMultiplier2.5Description">You will have a 5/2x as big overcolonization limit and 5/2x as many minor factions will spawn.</LocalizationPair>
+  <LocalizationPair Name="%SettingGameSizeMultiplier2.5Description">Колонизационный лимит повысится в 2.5 раза, количество малых цивилизаций в галлактике так же повысится в 2.5 раза.</LocalizationPair>
   <LocalizationPair Name="%SettingGameSizeMultiplier3Title">3</LocalizationPair>
-  <LocalizationPair Name="%SettingGameSizeMultiplier3Description">You will have a 3x as big overcolonization limit and 3x as many minor factions will spawn.</LocalizationPair>
+  <LocalizationPair Name="%SettingGameSizeMultiplier3Description">Колонизационный лимит повысится в 3 раза, количество малых цивилизаций в галлактике так же повысится в 3 раза.</LocalizationPair>
   <LocalizationPair Name="%SettingGameSizeMultiplier3.5Title">3.5</LocalizationPair>
-  <LocalizationPair Name="%SettingGameSizeMultiplier3.5Description">You will have a 7/2x as big overcolonization limit and 7/2x as many minor factions will spawn.</LocalizationPair>
+  <LocalizationPair Name="%SettingGameSizeMultiplier3.5Description">Колонизационный лимит повысится в 3.5 раза, количество малых цивилизаций в галлактике так же повысится в 3.5 раза.</LocalizationPair>
   <LocalizationPair Name="%SettingGameSizeMultiplier4Title">4</LocalizationPair>
-  <LocalizationPair Name="%SettingGameSizeMultiplier4Description">You will have a 4x as big overcolonization limit and 4x as many minor factions will spawn.</LocalizationPair>
+  <LocalizationPair Name="%SettingGameSizeMultiplier4Description">Колонизационный лимит повысится в 4 раза, количество малых цивилизаций в галлактике так же повысится в 4 раза.</LocalizationPair>
   <LocalizationPair Name="%SettingGameSizeMultiplier4.5Title">4.5</LocalizationPair>
-  <LocalizationPair Name="%SettingGameSizeMultiplier4.5Description">You will have a 9/2x as big overcolonization limit and 9/2x as many minor factions will spawn.</LocalizationPair>
+  <LocalizationPair Name="%SettingGameSizeMultiplier4.5Description">Колонизационный лимит повысится в 4.5 раза, количество малых цивилизаций в галлактике так же повысится в 4.5 раза.</LocalizationPair>
   <LocalizationPair Name="%SettingGameSizeMultiplier5Title">5</LocalizationPair>
-  <LocalizationPair Name="%SettingGameSizeMultiplier5Description">You will have a 5x as big overcolonization limit and 5x as many minor factions will spawn.</LocalizationPair>
+  <LocalizationPair Name="%SettingGameSizeMultiplier5Description">Колонизационный лимит повысится в 5 раз, количество малых цивилизаций в галлактике так же повысится в 5 раз.</LocalizationPair>
 
   <!-- Anomaly Quantity -->
   <LocalizationPair Name="%SettingAnomaliesQuantityTitle">Количество аномалий</LocalizationPair>
@@ -319,7 +319,7 @@
 
   <!-- Curiosity Rewards Quantity -->
   <LocalizationPair Name="%SettingCuriosityRewardsQuantityTitle">Количество феноменов</LocalizationPair>
-  <LocalizationPair Name="%SettingCuriosityRewardsQuantityDescription">Определяет количество феноменов в галлактике. Разные феномены генерируются в следющем соотношении: Ресурсы роскоши (11%), Стратегические ресурсы (22%), and Добыча (67%). Количество феноменов заданий (квестов) можно увидеть в описании ниже, но 4 таких феномена (на каждого игрока) появятся гарантированно.</LocalizationPair>
+  <LocalizationPair Name="%SettingCuriosityRewardsQuantityDescription">Определяет количество феноменов в галлактике. Разные феномены генерируются в следющем соотношении: Ресурсы роскоши (11%), Стратегические ресурсы (22%), Добыча (67%). Количество феноменов заданий (квестов) можно увидеть в описании ниже, но 4 таких феномена (на каждого игрока) появятся гарантированно.</LocalizationPair>
   <LocalizationPair Name="%SettingCuriosityRewardsQuantity0Title">0</LocalizationPair>
   <LocalizationPair Name="%SettingCuriosityRewardsQuantity0Description">No феноменов. (Не рекомендуется)</LocalizationPair>
   <LocalizationPair Name="%SettingCuriosityRewardsQuantity50Title">50</LocalizationPair>
