@@ -1,69 +1,69 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Datatable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <!-- Constellations -->
-  <LocalizationPair Name="%ConstellationName82">Olivaw</LocalizationPair>
-  <LocalizationPair Name="%ConstellationName83">Heinlein</LocalizationPair>
-  <LocalizationPair Name="%ConstellationName84">Asimov</LocalizationPair>
-  <LocalizationPair Name="%ConstellationName85">Scalzi</LocalizationPair>
-  <LocalizationPair Name="%ConstellationName86">Vulpecula</LocalizationPair>
+  <LocalizationPair Name="%ConstellationName82">Оливо</LocalizationPair>
+  <LocalizationPair Name="%ConstellationName83">Хайнлайн</LocalizationPair>
+  <LocalizationPair Name="%ConstellationName84">Азимов</LocalizationPair>
+  <LocalizationPair Name="%ConstellationName85">Скальци</LocalizationPair>
+  <LocalizationPair Name="%ConstellationName86">Лисица</LocalizationPair>
   <LocalizationPair Name="%ConstellationName87">Montag</LocalizationPair>
-  <LocalizationPair Name="%ConstellationName88">Le'Guin</LocalizationPair>
-  <LocalizationPair Name="%ConstellationName89">McQuay</LocalizationPair>
-  <LocalizationPair Name="%ConstellationName90">Gesserit</LocalizationPair>
-  <LocalizationPair Name="%ConstellationName91">Muad'Dib</LocalizationPair>
-  <LocalizationPair Name="%ConstellationName92">Niven</LocalizationPair>
-  <LocalizationPair Name="%ConstellationName93">Idaho</LocalizationPair>
-  <LocalizationPair Name="%ConstellationName94">Gibson</LocalizationPair>
-  <LocalizationPair Name="%ConstellationName95">Card</LocalizationPair>
-  <LocalizationPair Name="%ConstellationName96">Clarke</LocalizationPair>
-  <LocalizationPair Name="%ConstellationName97">Verne</LocalizationPair>
-  <LocalizationPair Name="%ConstellationName98">Orwell</LocalizationPair>
-  <LocalizationPair Name="%ConstellationName99">Vinge</LocalizationPair>
-  <LocalizationPair Name="%ConstellationName100">Huxley</LocalizationPair>
+  <LocalizationPair Name="%ConstellationName88">Ле Гуин</LocalizationPair>
+  <LocalizationPair Name="%ConstellationName89">Маккей</LocalizationPair>
+  <LocalizationPair Name="%ConstellationName90">Гессерит</LocalizationPair>
+  <LocalizationPair Name="%ConstellationName91">Муад'Диб</LocalizationPair>
+  <LocalizationPair Name="%ConstellationName92">Нивен</LocalizationPair>
+  <LocalizationPair Name="%ConstellationName93">Айдахо</LocalizationPair>
+  <LocalizationPair Name="%ConstellationName94">Гибсон</LocalizationPair>
+  <LocalizationPair Name="%ConstellationName95">Кард</LocalizationPair>
+  <LocalizationPair Name="%ConstellationName96">Кларк</LocalizationPair>
+  <LocalizationPair Name="%ConstellationName97">Верн</LocalizationPair>
+  <LocalizationPair Name="%ConstellationName98">Оруэлл</LocalizationPair>
+  <LocalizationPair Name="%ConstellationName99">Виндж</LocalizationPair>
+  <LocalizationPair Name="%ConstellationName100">Хаксли</LocalizationPair>
 
   <!-- Systems -->
   <!-- Dune -->
-  <LocalizationPair Name="%StarName252">Ix</LocalizationPair>
-  <LocalizationPair Name="%StarName253">Tleilaxu</LocalizationPair>
-  <LocalizationPair Name="%StarName254">Caladan</LocalizationPair>
-  <LocalizationPair Name="%StarName255">Giedi</LocalizationPair>
-  <LocalizationPair Name="%StarName256">Corrino</LocalizationPair>
-  <LocalizationPair Name="%StarName257">Salusa</LocalizationPair>
-  <LocalizationPair Name="%StarName258">Secundus</LocalizationPair>
-  <LocalizationPair Name="%StarName259">Padishah</LocalizationPair>
-  <LocalizationPair Name="%StarName260">Atreides</LocalizationPair>
-  <LocalizationPair Name="%StarName261">Harkonnen</LocalizationPair>
-  <LocalizationPair Name="%StarName262">Kalir</LocalizationPair>
+  <LocalizationPair Name="%StarName252">Иксиан</LocalizationPair>
+  <LocalizationPair Name="%StarName253">Тлейлаксу</LocalizationPair>
+  <LocalizationPair Name="%StarName254">Каладан</LocalizationPair>
+  <LocalizationPair Name="%StarName255">Гьеди</LocalizationPair>
+  <LocalizationPair Name="%StarName256">Коррино</LocalizationPair>
+  <LocalizationPair Name="%StarName257">Салуса</LocalizationPair>
+  <LocalizationPair Name="%StarName258">Секундус</LocalizationPair>
+  <LocalizationPair Name="%StarName259">Падишах</LocalizationPair>
+  <LocalizationPair Name="%StarName260">Атрайдес</LocalizationPair>
+  <LocalizationPair Name="%StarName261">Харконен</LocalizationPair>
+  <LocalizationPair Name="%StarName262">Калир</LocalizationPair>
 
   <!-- Fire Among the Deep -->
-  <LocalizationPair Name="%StarName263">Tine</LocalizationPair>
-  <LocalizationPair Name="%StarName264">Skroder</LocalizationPair>
-  <LocalizationPair Name="%StarName265">Dirokime</LocalizationPair>
-  <LocalizationPair Name="%StarName266">Aphrahanti</LocalizationPair>
+  <LocalizationPair Name="%StarName263">Тайн</LocalizationPair>
+  <LocalizationPair Name="%StarName264">Скродер</LocalizationPair>
+  <LocalizationPair Name="%StarName265">Дироким</LocalizationPair>
+  <LocalizationPair Name="%StarName266">Афраханти</LocalizationPair>
 
   <!-- Battlestar Galactica -->
   <LocalizationPair Name="%StarName267">Cyrannus</LocalizationPair>
-  <LocalizationPair Name="%StarName268">Kobol</LocalizationPair>
+  <LocalizationPair Name="%StarName268">Кобол</LocalizationPair>
 
   <!-- EVE -->
-  <LocalizationPair Name="%StarName269">Damar</LocalizationPair>
-  <LocalizationPair Name="%StarName270">Arzad</LocalizationPair>
-  <LocalizationPair Name="%StarName271">Ezzara</LocalizationPair>
-  <LocalizationPair Name="%StarName272">Pator</LocalizationPair>
-  <LocalizationPair Name="%StarName273">Damius</LocalizationPair>
+  <LocalizationPair Name="%StarName269">Дамар</LocalizationPair>
+  <LocalizationPair Name="%StarName270">Арзад</LocalizationPair>
+  <LocalizationPair Name="%StarName271">Эззара</LocalizationPair>
+  <LocalizationPair Name="%StarName272">Патор</LocalizationPair>
+  <LocalizationPair Name="%StarName273">Дамиус</LocalizationPair>
 
   <!-- Star Craft -->
-  <LocalizationPair Name="%StarName274">Tarsonis</LocalizationPair>
-  <LocalizationPair Name="%StarName275">Mackan</LocalizationPair>
-  <LocalizationPair Name="%StarName276">Antiga</LocalizationPair>
-  <LocalizationPair Name="%StarName277">Bukari</LocalizationPair>
-  <LocalizationPair Name="%StarName278">Brontes</LocalizationPair>
-  <LocalizationPair Name="%StarName279">Dylar</LocalizationPair>
-  <LocalizationPair Name="%StarName280">Sara</LocalizationPair>
-  <LocalizationPair Name="%StarName281">Zerus</LocalizationPair>
-  <LocalizationPair Name="%StarName282">Koprulu</LocalizationPair>
-  <LocalizationPair Name="%StarName283">Atrias</LocalizationPair>
-  <LocalizationPair Name="%StarName284">Korhal</LocalizationPair>
+  <LocalizationPair Name="%StarName274">Тарсонис</LocalizationPair>
+  <LocalizationPair Name="%StarName275">Макан</LocalizationPair>
+  <LocalizationPair Name="%StarName276">Антига</LocalizationPair>
+  <LocalizationPair Name="%StarName277">Букари</LocalizationPair>
+  <LocalizationPair Name="%StarName278">Бронтес</LocalizationPair>
+  <LocalizationPair Name="%StarName279">Дилар</LocalizationPair>
+  <LocalizationPair Name="%StarName280">Сара</LocalizationPair>
+  <LocalizationPair Name="%StarName281">Зерус</LocalizationPair>
+  <LocalizationPair Name="%StarName282">Копрулу</LocalizationPair>
+  <LocalizationPair Name="%StarName283">Атриас</LocalizationPair>
+  <LocalizationPair Name="%StarName284">Корхал</LocalizationPair>
 
   <!-- As a way of thanking these people -->
   <LocalizationPair Name="%StarName285">Selor</LocalizationPair>
@@ -72,167 +72,167 @@
   <LocalizationPair Name="%StarName301">Corusant</LocalizationPair>
 
   <!-- Hitchhikers Guide to the Galaxy -->
-  <LocalizationPair Name="%StarName288">Brontitall</LocalizationPair>
-  <LocalizationPair Name="%StarName289">Krikkit</LocalizationPair>
-  <LocalizationPair Name="%StarName290">Milliways</LocalizationPair>
-  <LocalizationPair Name="%StarName291">Magrathea</LocalizationPair>
+  <LocalizationPair Name="%StarName288">Бронтиталл</LocalizationPair>
+  <LocalizationPair Name="%StarName289">Криккит</LocalizationPair>
+  <LocalizationPair Name="%StarName290">Миллиуэйз</LocalizationPair>
+  <LocalizationPair Name="%StarName291">Магратея</LocalizationPair>
 
   <!-- W40K -->
-  <LocalizationPair Name="%StarName292">Aethon</LocalizationPair>
-  <LocalizationPair Name="%StarName293">Cryptus</LocalizationPair>
-  <LocalizationPair Name="%StarName294">Tarsis</LocalizationPair>
-  <LocalizationPair Name="%StarName295">Dagnor</LocalizationPair>
-  <LocalizationPair Name="%StarName296">Nereus</LocalizationPair>
-  <LocalizationPair Name="%StarName297">Nachmund</LocalizationPair>
-  <LocalizationPair Name="%StarName298">Gilead</LocalizationPair>
-  <LocalizationPair Name="%StarName299">Cadian</LocalizationPair>
-  <LocalizationPair Name="%StarName300">Brakatoa</LocalizationPair>
+  <LocalizationPair Name="%StarName292">Фаэтон</LocalizationPair>
+  <LocalizationPair Name="%StarName293">Криптус</LocalizationPair>
+  <LocalizationPair Name="%StarName294">Тарсис</LocalizationPair>
+  <LocalizationPair Name="%StarName295">Дагнор</LocalizationPair>
+  <LocalizationPair Name="%StarName296">Неурус</LocalizationPair>
+  <LocalizationPair Name="%StarName297">Нахмунд</LocalizationPair>
+  <LocalizationPair Name="%StarName298">Галаад</LocalizationPair>
+  <LocalizationPair Name="%StarName299">Кадия</LocalizationPair>
+  <LocalizationPair Name="%StarName300">Бракатоа</LocalizationPair>
 
   <!-- Special Nodes -->
   <LocalizationPair Name="%SpecialNodeName46">NGC 253</LocalizationPair>
   <LocalizationPair Name="%SpecialNodeName47">SS 433</LocalizationPair>
   <LocalizationPair Name="%SpecialNodeName48">V404 Cyg</LocalizationPair>
   <LocalizationPair Name="%SpecialNodeName49">M33 X-7</LocalizationPair>
-  <LocalizationPair Name="%SpecialNodeName50">Messier 9</LocalizationPair>
-  <LocalizationPair Name="%SpecialNodeName51">Messier 15</LocalizationPair>
+  <LocalizationPair Name="%SpecialNodeName50">Мсье 9</LocalizationPair>
+  <LocalizationPair Name="%SpecialNodeName51">Мсье 15</LocalizationPair>
   <LocalizationPair Name="%SpecialNodeName52">QSO 1548+12</LocalizationPair>
   <LocalizationPair Name="%SpecialNodeName53">QQ2341+009</LocalizationPair>
   <LocalizationPair Name="%SpecialNodeName54">3C 279</LocalizationPair>
   <LocalizationPair Name="%SpecialNodeName55">3C 180</LocalizationPair>
   <LocalizationPair Name="%SpecialNodeName56">4C 380</LocalizationPair>
-  <LocalizationPair Name="%SpecialNodeName57">Webster 4</LocalizationPair>
-  <LocalizationPair Name="%SpecialNodeName58">Ceres A2</LocalizationPair>
-  <LocalizationPair Name="%SpecialNodeName59">Pallas Minor</LocalizationPair>
-  <LocalizationPair Name="%SpecialNodeName60">Pallas Major</LocalizationPair>
-  <LocalizationPair Name="%SpecialNodeName61">Hygiea 9</LocalizationPair>
-  <LocalizationPair Name="%SpecialNodeName62">Vesta L390</LocalizationPair>
-  <LocalizationPair Name="%SpecialNodeName63">Davida 332</LocalizationPair>
-  <LocalizationPair Name="%SpecialNodeName64">Sylvia 87</LocalizationPair>
-  <LocalizationPair Name="%SpecialNodeName65">Euphrosyne 31</LocalizationPair>
-  <LocalizationPair Name="%SpecialNodeName66">Patientia 451</LocalizationPair>
-  <LocalizationPair Name="%SpecialNodeName67">Copernicus 3</LocalizationPair>
-  <LocalizationPair Name="%SpecialNodeName68">Herschel's Star</LocalizationPair>
+  <LocalizationPair Name="%SpecialNodeName57">Вебстер 4</LocalizationPair>
+  <LocalizationPair Name="%SpecialNodeName58">Церес A2</LocalizationPair>
+  <LocalizationPair Name="%SpecialNodeName59">Малая Паллада</LocalizationPair>
+  <LocalizationPair Name="%SpecialNodeName60">Большая Паллада</LocalizationPair>
+  <LocalizationPair Name="%SpecialNodeName61">Гигея 9</LocalizationPair>
+  <LocalizationPair Name="%SpecialNodeName62">Веста L390</LocalizationPair>
+  <LocalizationPair Name="%SpecialNodeName63">Давида 332</LocalizationPair>
+  <LocalizationPair Name="%SpecialNodeName64">Сильвия 87</LocalizationPair>
+  <LocalizationPair Name="%SpecialNodeName65">Евфросиния 31</LocalizationPair>
+  <LocalizationPair Name="%SpecialNodeName66">Патиента 451</LocalizationPair>
+  <LocalizationPair Name="%SpecialNodeName67">Коперник 3</LocalizationPair>
+  <LocalizationPair Name="%SpecialNodeName68">Звезда Хершеля</LocalizationPair>
   <LocalizationPair Name="%SpecialNodeName69">GX930</LocalizationPair>
-  <LocalizationPair Name="%SpecialNodeName70">Huygens Anomaly</LocalizationPair>
-  <LocalizationPair Name="%SpecialNodeName71">Astral Lagoon</LocalizationPair>
-  <LocalizationPair Name="%SpecialNodeName72">Cat's Eye</LocalizationPair>
-  <LocalizationPair Name="%SpecialNodeName73">Stellar Veil</LocalizationPair>
-  <LocalizationPair Name="%SpecialNodeName74">Tarantula Nebula</LocalizationPair>
-  <LocalizationPair Name="%SpecialNodeName75">Eagle Nebula</LocalizationPair>
+  <LocalizationPair Name="%SpecialNodeName70">Аномалия Гюйгенса</LocalizationPair>
+  <LocalizationPair Name="%SpecialNodeName71">Астральная Лагуна</LocalizationPair>
+  <LocalizationPair Name="%SpecialNodeName72">Кошачье Око</LocalizationPair>
+  <LocalizationPair Name="%SpecialNodeName73">Звёздная Вуаль</LocalizationPair>
+  <LocalizationPair Name="%SpecialNodeName74">Туманность Тарантула</LocalizationPair>
+  <LocalizationPair Name="%SpecialNodeName75">Туманность Орла</LocalizationPair>
   <LocalizationPair Name="%SpecialNodeName76">NGC 6302</LocalizationPair>
   <LocalizationPair Name="%SpecialNodeName77">NGC 6210</LocalizationPair>
   <LocalizationPair Name="%SpecialNodeName78">Mz 3</LocalizationPair>
-  <LocalizationPair Name="%SpecialNodeName79">Little Dumbbell</LocalizationPair>
-  <LocalizationPair Name="%SpecialNodeName80">Red Square Nebula</LocalizationPair>
+  <LocalizationPair Name="%SpecialNodeName79">Малая Гантеля</LocalizationPair>
+  <LocalizationPair Name="%SpecialNodeName80">Туманность Красного Квадрата</LocalizationPair>
 
   <!-- Academy Anomaly Effect -->
-  <LocalizationPair Name="%PlanetAnomalyAcademyEffectOverride">+5 Experience per Turn on Heroes on Empire</LocalizationPair>
+  <LocalizationPair Name="%PlanetAnomalyAcademyEffectOverride">+5 опыта в ход на героев в империи</LocalizationPair>
 
   <!-- ESG Settings -->
-  <LocalizationPair Name="%AdvancedSettingsESGTitle">ESG Mod Settings</LocalizationPair>
+  <LocalizationPair Name="%AdvancedSettingsESGTitle">Настройки ESG Mod'a</LocalizationPair>
   
   <!-- Balanced Start -->
-  <LocalizationPair Name="%SettingBalancedStartsTitle">Balance Player Starts</LocalizationPair>
-  <LocalizationPair Name="%SettingBalancedStartsDescription">Enabling this will guarantee that factions spawn with planets specifically chosen for them.</LocalizationPair>
-  <LocalizationPair Name="%SettingBalancedStartsTrueTitle">True</LocalizationPair>
-  <LocalizationPair Name="%SettingBalancedStartsTrueDescription">Factions will spawn with specifically chosen home systems.</LocalizationPair>
-  <LocalizationPair Name="%SettingBalancedStartsFalseTitle">False</LocalizationPair>
-  <LocalizationPair Name="%SettingBalancedStartsFalseDescription">Factions will spawn with random star systems.</LocalizationPair>
+  <LocalizationPair Name="%SettingBalancedStartsTitle">Сбалансированный старт</LocalizationPair>
+  <LocalizationPair Name="%SettingBalancedStartsDescription">Включение гарантирует, что фракции появятся с планетами, специально выбранными для них.</LocalizationPair>
+  <LocalizationPair Name="%SettingBalancedStartsTrueTitle">Вкл</LocalizationPair>
+  <LocalizationPair Name="%SettingBalancedStartsTrueDescription">Фракции появятся со специально выбранными домашними системами.</LocalizationPair>
+  <LocalizationPair Name="%SettingBalancedStartsFalseTitle">Выкл</LocalizationPair>
+  <LocalizationPair Name="%SettingBalancedStartsFalseDescription">Фракции появятся со случайно сгенерированными домашними системами.</LocalizationPair>
 
   <!-- Luxury Rework -->
-  <LocalizationPair Name="%SettingLuxuryReworkTitle">Enable Luxury Rework</LocalizationPair>
-  <LocalizationPair Name="%SettingLuxuryReworkDescription">Enabling this make luxuries have their revised ESG effects in system development.</LocalizationPair>
-  <LocalizationPair Name="%SettingLuxuryReworkTrueTitle">True</LocalizationPair>
+  <LocalizationPair Name="%SettingLuxuryReworkTitle">Баланс ресурсов роскоши</LocalizationPair>
+  <LocalizationPair Name="%SettingLuxuryReworkDescription">Улучшает баланс эффектов ресурсов роскоши в системах. Рекомендуется</LocalizationPair>
+  <LocalizationPair Name="%SettingLuxuryReworkTrueTitle">Вкл</LocalizationPair>
   <LocalizationPair Name="%SettingLuxuryReworkTrueDescription">Luxuries will have their revised ESG effects in system development.</LocalizationPair>
-  <LocalizationPair Name="%SettingLuxuryReworkFalseTitle">False</LocalizationPair>
+  <LocalizationPair Name="%SettingLuxuryReworkFalseTitle">Выкл</LocalizationPair>
   <LocalizationPair Name="%SettingLuxuryReworkFalseDescription">Luxuries will have their vanilla effects in system development.</LocalizationPair>
   <!-- Tier 1 -->
   <!-- Redsang -->
-  <LocalizationPair Name="%RecipeIngredient1Vanilla">+60 [foodColored] on Systems (Vanilla)</LocalizationPair>
-  <LocalizationPair Name="%RecipeIngredient1Rework" >+30 [foodColored] on Systems (Rework)</LocalizationPair>
+  <LocalizationPair Name="%RecipeIngredient1Vanilla">+60 [foodColored] на систему (Vanilla)</LocalizationPair>
+  <LocalizationPair Name="%RecipeIngredient1Rework" >+30 [foodColored] на систему (Rework)</LocalizationPair>
   <!-- Jadonyx -->
-  <LocalizationPair Name="%RecipeIngredient2Vanilla">+60 [industryColored] on Systems (Vanilla)</LocalizationPair>
-  <LocalizationPair Name="%RecipeIngredient2Rework" >+20 [industryColored] on Systems (Rework)</LocalizationPair>
+  <LocalizationPair Name="%RecipeIngredient2Vanilla">+60 [industryColored] на систему (Vanilla)</LocalizationPair>
+  <LocalizationPair Name="%RecipeIngredient2Rework" >+20 [industryColored] на систему (Rework)</LocalizationPair>
   <!-- Dustciduous Trees -->
-  <LocalizationPair Name="%RecipeIngredient3Vanilla">+60 [dustColored] on Systems (Vanilla)</LocalizationPair>
-  <LocalizationPair Name="%RecipeIngredient3Rework" >+30 [dustColored] on Systems (Rework)</LocalizationPair>
+  <LocalizationPair Name="%RecipeIngredient3Vanilla">+60 [dustColored] на систему (Vanilla)</LocalizationPair>
+  <LocalizationPair Name="%RecipeIngredient3Rework" >+30 [dustColored] на систему (Rework)</LocalizationPair>
   <!-- Bluecap Mold -->
-  <LocalizationPair Name="%RecipeIngredient4Vanilla">+60 [scienceColored] on Systems (Vanilla)</LocalizationPair>
-  <LocalizationPair Name="%RecipeIngredient4Rework" >+30 [scienceColored] on Systems (Rework)</LocalizationPair>
+  <LocalizationPair Name="%RecipeIngredient4Vanilla">+60 [scienceColored] на систему (Vanilla)</LocalizationPair>
+  <LocalizationPair Name="%RecipeIngredient4Rework" >+30 [scienceColored] на систему (Rework)</LocalizationPair>
   <!-- Eden Incense -->
-  <LocalizationPair Name="%RecipeIngredient5Vanilla">+30 [prestigeColored] on Systems (Vanilla)</LocalizationPair>
-  <LocalizationPair Name="%RecipeIngredient5Rework" >+15 [prestigeColored] on Systems (Rework)</LocalizationPair>
+  <LocalizationPair Name="%RecipeIngredient5Vanilla">+30 [prestigeColored] на систему (Vanilla)</LocalizationPair>
+  <LocalizationPair Name="%RecipeIngredient5Rework" >+15 [prestigeColored] на систему (Rework)</LocalizationPair>
   <!-- Transvine -->
-  <LocalizationPair Name="%RecipeIngredient6" >+15 [happinessColored] on Systems (Both)</LocalizationPair>
-  <LocalizationPair Name="%RecipeIngredient6VanillaHissho">+20 [fidsi] on Devoted on Systems (Vanilla)
-+15 [fidsi] on Loyal on Systems</LocalizationPair>
-  <LocalizationPair Name="%RecipeIngredient6ReworkHissho" >+15 [fidsi] on Devoted on Systems (Rework)
-+10 [fidsi] on Loyal on Systems</LocalizationPair>
+  <LocalizationPair Name="%RecipeIngredient6" >+15 [happinessColored] на систему (Both)</LocalizationPair>
+  <LocalizationPair Name="%RecipeIngredient6VanillaHissho">+20 [fidsi] on Devoted на систему (Vanilla)
++15 [fidsi] on Loyal на систему</LocalizationPair>
+  <LocalizationPair Name="%RecipeIngredient6ReworkHissho" >+15 [fidsi] on Devoted на систему (Rework)
++10 [fidsi] on Loyal на систему</LocalizationPair>
   <!-- Dark Glitter -->
-  <LocalizationPair Name="%RecipeIngredient7-1">+200 [systemdefense] Capacity on Systems (Both)</LocalizationPair>
-  <LocalizationPair Name="%RecipeIngredient7-2">+10 [manpower] on Systems</LocalizationPair>
+  <LocalizationPair Name="%RecipeIngredient7-1">+200 [systemdefense] Capacity на систему (Both)</LocalizationPair>
+  <LocalizationPair Name="%RecipeIngredient7-2">+10 [manpower] на систему</LocalizationPair>
   <LocalizationPair Name="%RecipeIngredient7-3">+75 Enrollment Rate</LocalizationPair>
   <!-- Superspuds -->
-  <LocalizationPair Name="%RecipeIngredient8Vanilla">+15% Buyout Reduction on Systems (Vanilla)</LocalizationPair>
-  <LocalizationPair Name="%RecipeIngredient8Rework" >+20% Buyout Reduction on Systems (Rework)</LocalizationPair>
+  <LocalizationPair Name="%RecipeIngredient8Vanilla">+15% Buyout Reduction на систему (Vanilla)</LocalizationPair>
+  <LocalizationPair Name="%RecipeIngredient8Rework" >+20% Buyout Reduction на систему (Rework)</LocalizationPair>
   <!-- Tier 2 -->
   <!-- Hydromiel -->
-  <LocalizationPair Name="%RecipeIngredient9Vanilla">+4 [foodColored] per Population on Systems (Vanilla)</LocalizationPair>
-  <LocalizationPair Name="%RecipeIngredient9Rework" >+3 [foodColored] per Population on Systems (Rework)</LocalizationPair>
+  <LocalizationPair Name="%RecipeIngredient9Vanilla">+4 [foodColored] за жителя на систему (Vanilla)</LocalizationPair>
+  <LocalizationPair Name="%RecipeIngredient9Rework" >+3 [foodColored] за жителя на систему (Rework)</LocalizationPair>
   <!-- Voidstones -->
-  <LocalizationPair Name="%RecipeIngredient10Vanilla">+4 [industryColored] per Population on Systems (Vanilla)</LocalizationPair>
-  <LocalizationPair Name="%RecipeIngredient10Rework" >+2 [industryColored] per Population on Systems (Rework)</LocalizationPair>
+  <LocalizationPair Name="%RecipeIngredient10Vanilla">+4 [industryColored] за жителя на систему (Vanilla)</LocalizationPair>
+  <LocalizationPair Name="%RecipeIngredient10Rework" >+2 [industryColored] за жителя на систему (Rework)</LocalizationPair>
   <!-- Proto-Orchid -->
-  <LocalizationPair Name="%RecipeIngredient11Vanilla">+4 [dustColored] per Population on Systems(Vanilla)</LocalizationPair>
-  <LocalizationPair Name="%RecipeIngredient11Rework" >+3 [dustColored] per Population on Systems (Rework)</LocalizationPair>
+  <LocalizationPair Name="%RecipeIngredient11Vanilla">+4 [dustColored] за жителя на систему(Vanilla)</LocalizationPair>
+  <LocalizationPair Name="%RecipeIngredient11Rework" >+3 [dustColored] за жителя на систему (Rework)</LocalizationPair>
   <!-- Ionic Crystals -->
-  <LocalizationPair Name="%RecipeIngredient12Vanilla">+4 [scienceColored] per Population on Systems (Vanilla)</LocalizationPair>
-  <LocalizationPair Name="%RecipeIngredient12Rework" >+3 [scienceColored] per Population on Systems (Rework)</LocalizationPair>
-  <LocalizationPair Name="%RecipeIngredient12Templars" >+10% [scienceColored] on Systems (Vanilla)
-+2 [scienceColored] per unassigned [relic] on Systems (Rework)</LocalizationPair>
+  <LocalizationPair Name="%RecipeIngredient12Vanilla">+4 [scienceColored] за жителя на систему (Vanilla)</LocalizationPair>
+  <LocalizationPair Name="%RecipeIngredient12Rework" >+3 [scienceColored] за жителя на систему (Rework)</LocalizationPair>
+  <LocalizationPair Name="%RecipeIngredient12Templars" >+10% [scienceColored] на систему (Vanilla)
++2 [scienceColored] per unassigned [relic] на систему (Rework)</LocalizationPair>
   <!-- Giga Lattice -->
-  <LocalizationPair Name="%RecipeIngredient13">+2 [prestigeColored] per Population on Systems (Both)</LocalizationPair>
+  <LocalizationPair Name="%RecipeIngredient13">+2 [prestigeColored] за жителя на систему (Both)</LocalizationPair>
   <!-- Lost Cities -->
-  <LocalizationPair Name="%RecipeIngredient14">+2 [happinessColored] per Population on Systems (Both)</LocalizationPair>
-  <LocalizationPair Name="%RecipeIngredient14VanillaHissho">+3 [fidsi] per Population if Devoted on Systems (Vanilla)
-+2 [fidsi] per Population if Loyal on Systems</LocalizationPair>
-  <LocalizationPair Name="%RecipeIngredient14ReworkHissho" >+2.5 [fidsi] per Population if Devoted on Systems (Rework)
-+1.5 [fidsi] per Population if Loyal on Systems</LocalizationPair>
+  <LocalizationPair Name="%RecipeIngredient14">+2 [happinessColored] за жителя на систему (Both)</LocalizationPair>
+  <LocalizationPair Name="%RecipeIngredient14VanillaHissho">+3 [fidsi] за жителя if Devoted на систему (Vanilla)
++2 [fidsi] за жителя if Loyal на систему</LocalizationPair>
+  <LocalizationPair Name="%RecipeIngredient14ReworkHissho" >+2.5 [fidsi] за жителя if Devoted на систему (Rework)
++1.5 [fidsi] за жителя if Loyal на систему</LocalizationPair>
   <!-- Amanthoid -->
-  <LocalizationPair Name="%RecipeIngredient15">x2 Damage done to attacker during ground battle on Systems (Both)</LocalizationPair>
+  <LocalizationPair Name="%RecipeIngredient15">x2 Damage done to attacker during ground battle на систему (Both)</LocalizationPair>
   <!-- Gossamer -->
-  <LocalizationPair Name="%RecipeIngredient16Vanilla">100% of [hq] value added to [prestigeColored] on Systems (Vanilla)</LocalizationPair>
-  <LocalizationPair Name="%RecipeIngredient16Rework" >+25% [hq] income on Systems (Rework)</LocalizationPair>
+  <LocalizationPair Name="%RecipeIngredient16Vanilla">100% of [hq] value added to [prestigeColored] на систему (Vanilla)</LocalizationPair>
+  <LocalizationPair Name="%RecipeIngredient16Rework" >+25% [hq] income на систему (Rework)</LocalizationPair>
   <!-- Tier 3 -->
   <!-- Mercurite -->
-  <LocalizationPair Name="%RecipeIngredient17Vanilla">+15% [foodColored] per System Level on Systems (Vanilla)</LocalizationPair>
-  <LocalizationPair Name="%RecipeIngredient17Rework" >+10% [foodColored] per System Level on Systems (Rework)</LocalizationPair>
+  <LocalizationPair Name="%RecipeIngredient17Vanilla">+15% [foodColored] per System Level на систему (Vanilla)</LocalizationPair>
+  <LocalizationPair Name="%RecipeIngredient17Rework" >+10% [foodColored] per System Level на систему (Rework)</LocalizationPair>
   <!-- Endless Foundries -->
-  <LocalizationPair Name="%RecipeIngredient18Vanilla">+15% [industryColored] per System Level on Systems (Vanilla)</LocalizationPair>
-  <LocalizationPair Name="%RecipeIngredient18Rework" >+10% [industryColored] per System Level on Systems (Rework)</LocalizationPair>
+  <LocalizationPair Name="%RecipeIngredient18Vanilla">+15% [industryColored] per System Level на систему (Vanilla)</LocalizationPair>
+  <LocalizationPair Name="%RecipeIngredient18Rework" >+10% [industryColored] per System Level на систему (Rework)</LocalizationPair>
   <!-- DustWater -->
-  <LocalizationPair Name="%RecipeIngredient19Vanilla">+15% [dustColored] per System Level on Systems (Vanilla)</LocalizationPair>
-  <LocalizationPair Name="%RecipeIngredient19Rework" >+10% [dustColored] per System Level on Systems (Rework)</LocalizationPair>
+  <LocalizationPair Name="%RecipeIngredient19Vanilla">+15% [dustColored] per System Level на систему (Vanilla)</LocalizationPair>
+  <LocalizationPair Name="%RecipeIngredient19Rework" >+10% [dustColored] per System Level на систему (Rework)</LocalizationPair>
   <!-- Proto-Spores -->
-  <LocalizationPair Name="%RecipeIngredient20Vanilla">+15% [scienceColored] per System Level on Systems (Vanilla)</LocalizationPair>
-  <LocalizationPair Name="%RecipeIngredient20Rework" >+10% [scienceColored] per System Level on Systems (Rework)</LocalizationPair>
+  <LocalizationPair Name="%RecipeIngredient20Vanilla">+15% [scienceColored] per System Level на систему (Vanilla)</LocalizationPair>
+  <LocalizationPair Name="%RecipeIngredient20Rework" >+10% [scienceColored] per System Level на систему (Rework)</LocalizationPair>
   <!-- Meta-Entactogen -->
-  <LocalizationPair Name="%RecipeIngredient21Vanilla">+15% [prestigeColored] per System Level on Systems (Vanilla)</LocalizationPair>
-  <LocalizationPair Name="%RecipeIngredient21Rework" >+10% [prestigeColored] per System Level on Systems (Rework)</LocalizationPair>
+  <LocalizationPair Name="%RecipeIngredient21Vanilla">+15% [prestigeColored] per System Level на систему (Vanilla)</LocalizationPair>
+  <LocalizationPair Name="%RecipeIngredient21Rework" >+10% [prestigeColored] per System Level на систему (Rework)</LocalizationPair>
   <!-- Benthic Gems -->
-  <LocalizationPair Name="%RecipeIngredient22Vanilla">-50 [overcolonization] penalty on Systems (Vanilla)</LocalizationPair>
-  <LocalizationPair Name="%RecipeIngredient22Rework" >+10 [happinessColored] per System Level on Systems (Rework)</LocalizationPair>
-  <LocalizationPair Name="%RecipeIngredient22VanillaHissho">+15% [fids] per System Level if Devoted on Systems (Vanilla)
-+10% [fids] per System Level if Loyal on Systems</LocalizationPair>
-  <LocalizationPair Name="%RecipeIngredient22ReworkHissho" >+7.5% [fids] per System Level if Devoted on Systems (Rework)
-+5% [fids] per System Level if Loyal on Systems</LocalizationPair>
+  <LocalizationPair Name="%RecipeIngredient22Vanilla">-50 [overcolonization] penalty на систему (Vanilla)</LocalizationPair>
+  <LocalizationPair Name="%RecipeIngredient22Rework" >+10 [happinessColored] per System Level на систему (Rework)</LocalizationPair>
+  <LocalizationPair Name="%RecipeIngredient22VanillaHissho">+15% [fids] per System Level if Devoted на систему (Vanilla)
++10% [fids] per System Level if Loyal на систему</LocalizationPair>
+  <LocalizationPair Name="%RecipeIngredient22ReworkHissho" >+7.5% [fids] per System Level if Devoted на систему (Rework)
++5% [fids] per System Level if Loyal на систему</LocalizationPair>
   <!-- Virtual Artifacts -->
   <LocalizationPair Name="%RecipeIngredient23">+100% [systemDefense] Capacity on System (Both)
 +5% [manpower] per System Level</LocalizationPair>
   <!-- Drift Buds -->
-  <LocalizationPair Name="%RecipeIngredient24Vanilla">+50% [hq] income on Systems (Vanilla)</LocalizationPair>
-  <LocalizationPair Name="%RecipeIngredient24Rework-1">+10% [hq] income per System Level on Systems (Rework)</LocalizationPair>
-  <LocalizationPair Name="%RecipeIngredient24Rework-2">+10% Buyout Reduction per System Level on Systems</LocalizationPair>
+  <LocalizationPair Name="%RecipeIngredient24Vanilla">+50% [hq] income на систему (Vanilla)</LocalizationPair>
+  <LocalizationPair Name="%RecipeIngredient24Rework-1">+10% [hq] income per System Level на систему (Rework)</LocalizationPair>
+  <LocalizationPair Name="%RecipeIngredient24Rework-2">+10% Buyout Reduction per System Level на систему</LocalizationPair>
   
   <!-- Scale Supremacy -->
   <LocalizationPair Name="%SettingScaleSupremacyVictoryTitle">Scale Supremacy Victory</LocalizationPair>
@@ -356,29 +356,29 @@
 
   <!-- Laws -->
   <LocalizationPair Name="%PopulationCollectionBonusAmoeba3_TooltipEffect">"Thick Skins" Law Unlocked (-50% Diplomatic Pressure against your Empire)</LocalizationPair>
-  <LocalizationPair Name="%PopulationCollectionBonusBenthys3_TooltipEffect">"Happy Sardines" Law Unlocked (No [OverPopulation] penalty on Systems, +20% [foodColored] to [manpower] conversion)</LocalizationPair>
-  <LocalizationPair Name="%PopulationCollectionBonusBots3_TooltipEffect">"Fast Clean-up" Law Unlocked (+20% Ownership recovery rate on Systems)</LocalizationPair>
+  <LocalizationPair Name="%PopulationCollectionBonusBenthys3_TooltipEffect">"Happy Sardines" Law Unlocked (No [OverPopulation] penalty на систему, +20% [foodColored] to [manpower] conversion)</LocalizationPair>
+  <LocalizationPair Name="%PopulationCollectionBonusBots3_TooltipEffect">"Fast Clean-up" Law Unlocked (+20% Ownership recovery rate на систему)</LocalizationPair>
   <LocalizationPair Name="%PopulationCollectionBonusDeuyivans3_TooltipEffect">"Good Science" Law Unlocked (-30% Empire Development [scienceColored] Cost)</LocalizationPair>
   <LocalizationPair Name="%PopulationCollectionBonusEyders3_TooltipEffect">"Dust Diggers" Law Unlocked (+10% [dustColored] per Empires at Peace)</LocalizationPair>
-  <LocalizationPair Name="%PopulationCollectionBonusMavros3_TooltipEffect">"Crack Squads" Law Unlocked (-50% [OverColonization] on Systems)</LocalizationPair>
-  <LocalizationPair Name="%PopulationCollectionBonusNiris3_TooltipEffect">"Symbiotic Living" Law Unlocked (+5 [happinessColored] per System Level on Systems, +1 [happinessColored] per [population] on Systems)</LocalizationPair>
+  <LocalizationPair Name="%PopulationCollectionBonusMavros3_TooltipEffect">"Crack Squads" Law Unlocked (-50% [OverColonization] на систему)</LocalizationPair>
+  <LocalizationPair Name="%PopulationCollectionBonusNiris3_TooltipEffect">"Symbiotic Living" Law Unlocked (+5 [happinessColored] per System Level на систему, +1 [happinessColored] per [population] на систему)</LocalizationPair>
   <LocalizationPair Name="%PopulationCollectionBonusPilgrims3_TooltipEffect">"Blindsight" Law Unlocked (Provides the location of every fleet on the map)</LocalizationPair>
-  <LocalizationPair Name="%PopulationCollectionBonusPulsos3_TooltipEffect">"Coop Code" Law Unlocked (+0.1 [scienceColored] per [productionColored]) on Systems)</LocalizationPair>
+  <LocalizationPair Name="%PopulationCollectionBonusPulsos3_TooltipEffect">"Coop Code" Law Unlocked (+0.1 [scienceColored] per [productionColored]) на систему)</LocalizationPair>
   <LocalizationPair Name="%PopulationCollectionBonusRemnant3_TooltipEffect">"Laser-Like Law" Law Unlocked (+50% Deposit Value on Strategic Resources)</LocalizationPair>
   <LocalizationPair Name="%PopulationCollectionBonusGuardians3_TooltipEffect">"Peace Prescription" Law Unlocked (+10% Troop Health during Invasion per Peace, +15% Troop Health during Invasion per Alliance)</LocalizationPair>
   <LocalizationPair Name="%PopulationCollectionBonusHaroshems3_TooltipEffect">"Healthy Staples" Law Unlocked (-20% Population [foodColored] upkeep)</LocalizationPair>
   <LocalizationPair Name="%PopulationCollectionBonusHisshos3_TooltipEffect">"Bring 'Em, Break 'Em" Law Unlocked (+15% [manpower] replenishment on fleets outside borders)</LocalizationPair>
   <LocalizationPair Name="%PopulationCollectionBonusZvali3_TooltipEffect">"Drop In, Tune Out" Law Unlocked (0% [fidsi] Penalty from Blockades)</LocalizationPair>
   <LocalizationPair Name="%PopulationCollectionBonusGreenman3_TooltipEffect">"Drill Mill" Law Unlocked (+50% Deposit Value on Luxury Resources)</LocalizationPair>
-  <LocalizationPair Name="%PopulationCollectionBonusSowers3_TooltipEffect">"Sow and Reap" Law Unlocked (+5% [fids] per Fertile Planet on Systems)</LocalizationPair>
+  <LocalizationPair Name="%PopulationCollectionBonusSowers3_TooltipEffect">"Sow and Reap" Law Unlocked (+5% [fids] per Fertile Planet на систему)</LocalizationPair>
   <LocalizationPair Name="%PopulationCollectionBonusKalTikMas3_TooltipEffect">"Moving Tributes" Law Unlocked (+0.25 [move] on Ships per Systems on Empire)</LocalizationPair>
-  <LocalizationPair Name="%PopulationCollectionBonusSefaloros3_TooltipEffect">"Bux for Lux" Law Unlocked (-10% System Improvement [productionColored] cost per Luxury Deposit on Systems)</LocalizationPair>
+  <LocalizationPair Name="%PopulationCollectionBonusSefaloros3_TooltipEffect">"Bux for Lux" Law Unlocked (-10% System Improvement [productionColored] cost per Luxury Deposit на систему)</LocalizationPair>
   <LocalizationPair Name="%PopulationCollectionBonusGalvrans3_TooltipEffect">"Quarks and Quarries" Law Unlocked (+1% Technology Cost Reduction per Strategic Deposit on Empire)</LocalizationPair>
   <LocalizationPair Name="%PopulationCollectionBonusHarmony_TooltipEffect">"Happy Harmonies" Law Unlocked (+5 [happinessColored] per Strategic Deposit on System)</LocalizationPair>
   <LocalizationPair Name="%PopulationCollectionBonusIllo3_TooltipEffect">"Fists of Fear Edict" Law Unlocked (+5% [prestigeColored] per War)</LocalizationPair>
   <LocalizationPair Name="%PopulationCollectionBonusMinorHacking3_TooltipEffect">"Societal Bandwidth" Law Unlocked (+20% [processingPower] on Empire)</LocalizationPair>
-  <LocalizationPair Name="%PopulationCollectionBonusMinorOraculars3_TooltipEffect">"Planet Paydirt" Law Unlocked (+50% [dustColored] on Systems with Unique Planets)</LocalizationPair>
-  <LocalizationPair Name="%PopulationCollectionBonusBasryxo3_TooltipEffect">"Footprint Formulary" Law Unlocked (+1% [foodColored] on Systems per Sterile Planet on Empire)</LocalizationPair>
+  <LocalizationPair Name="%PopulationCollectionBonusMinorOraculars3_TooltipEffect">"Planet Paydirt" Law Unlocked (+50% [dustColored] на систему with Unique Planets)</LocalizationPair>
+  <LocalizationPair Name="%PopulationCollectionBonusBasryxo3_TooltipEffect">"Footprint Formulary" Law Unlocked (+1% [foodColored] на систему per Sterile Planet on Empire)</LocalizationPair>
   <LocalizationPair Name="%PopulationCollectionBonusSistersOfMercy3_TooltipEffect">"Blessings and Bandages" Law Unlocked (+25% Troop Health during Ground Battles)</LocalizationPair>
 
   <!-- Faction Traits -->
@@ -395,92 +395,92 @@
   <!-- Ice-10 -->
   <LocalizationPair Name="%FactionTraitStartingAnomaly10Title">Ice-10</LocalizationPair>
   <LocalizationPair Name="%FactionTraitStartingAnomaly10Description">This Empire was cursed with bad luck and begins its story with Ice-10 on their home planet.</LocalizationPair>
-  <LocalizationPair Name="%FactionTraitStartingAnomaly10EffectOverride">+2 [scienceColored] per Population
+  <LocalizationPair Name="%FactionTraitStartingAnomaly10EffectOverride">+2 [scienceColored] за жителя
 -10 [happinessColored]</LocalizationPair>
 
   <!-- Permanent Monsoon -->
   <LocalizationPair Name="%FactionTraitStartingAnomaly11Title">Permanent Monsoon</LocalizationPair>
   <LocalizationPair Name="%FactionTraitStartingAnomaly11Description">This Empire was cursed with bad luck and begins its story with a Permanent Monsoon on their home planet.</LocalizationPair>
-  <LocalizationPair Name="%FactionTraitStartingAnomaly11EffectOverride">+2 [foodColored] per Population
+  <LocalizationPair Name="%FactionTraitStartingAnomaly11EffectOverride">+2 [foodColored] за жителя
 -10 [happinessColored]</LocalizationPair>
 
   <!-- Metallic Waters -->
   <LocalizationPair Name="%FactionTraitStartingAnomaly12Title">Metallic Waters</LocalizationPair>
   <LocalizationPair Name="%FactionTraitStartingAnomaly12Description">This Empire was cursed with bad luck and begins its story with Metallic Waters on their home planet.</LocalizationPair>
-  <LocalizationPair Name="%FactionTraitStartingAnomaly12EffectOverride">+1 [industryColored] per Population
+  <LocalizationPair Name="%FactionTraitStartingAnomaly12EffectOverride">+1 [industryColored] за жителя
 -10 [happinessColored]</LocalizationPair>
 
   <!-- Aurora Waves -->
   <LocalizationPair Name="%FactionTraitStartingAnomaly13Title">Aurora Waves</LocalizationPair>
   <LocalizationPair Name="%FactionTraitStartingAnomaly13Description">This Empire was cursed with bad luck and begins its story with Aurora Waves on their home planet.</LocalizationPair>
   <LocalizationPair Name="%FactionTraitStartingAnomaly13EffectOverride">+10 [happinessColored]
--2 [scienceColored] per Population</LocalizationPair>
+-2 [scienceColored] за жителя</LocalizationPair>
 
   <!-- Psychoactive Air -->
   <LocalizationPair Name="%FactionTraitStartingAnomaly15Title">Psychoactive Air</LocalizationPair>
   <LocalizationPair Name="%FactionTraitStartingAnomaly15Description">This Empire was cursed with bad luck and begins its story with Psychoactive Air on their home planet.</LocalizationPair>
-  <LocalizationPair Name="%FactionTraitStartingAnomaly15EffectOverride">-1 [scienceColored] per Population
-+1 [dustColored] per Population
-+1 [happinessColored] per Population</LocalizationPair>
+  <LocalizationPair Name="%FactionTraitStartingAnomaly15EffectOverride">-1 [scienceColored] за жителя
++1 [dustColored] за жителя
++1 [happinessColored] за жителя</LocalizationPair>
 
   <!-- Geothermic Activity -->
   <LocalizationPair Name="%FactionTraitStartingAnomaly16Title">Geothermic Activity</LocalizationPair>
   <LocalizationPair Name="%FactionTraitStartingAnomaly16Description">This Empire was cursed with bad luck and begins its story with Geothermic Activity on their home planet.</LocalizationPair>
-  <LocalizationPair Name="%FactionTraitStartingAnomaly16EffectOverride">+1 [industryColored] per Population
--1 [scienceColored] per Population</LocalizationPair>
+  <LocalizationPair Name="%FactionTraitStartingAnomaly16EffectOverride">+1 [industryColored] за жителя
+-1 [scienceColored] за жителя</LocalizationPair>
 
   <!-- Seismic Activity -->
   <LocalizationPair Name="%FactionTraitStartingAnomaly17Title">Seismic Activity</LocalizationPair>
   <LocalizationPair Name="%FactionTraitStartingAnomaly17Description">This Empire was cursed with bad luck and begins its story with Seismic Activity on their home planet.</LocalizationPair>
-  <LocalizationPair Name="%FactionTraitStartingAnomaly17EffectOverride">-1 [dustColored] per Population
-+1 [scienceColored] per Population
--2 [happinessColored] per Population</LocalizationPair>
+  <LocalizationPair Name="%FactionTraitStartingAnomaly17EffectOverride">-1 [dustColored] за жителя
++1 [scienceColored] за жителя
+-2 [happinessColored] за жителя</LocalizationPair>
 
   <!-- Long Season -->
   <LocalizationPair Name="%FactionTraitStartingAnomaly18Title">Long Season</LocalizationPair>
   <LocalizationPair Name="%FactionTraitStartingAnomaly18Description">This Empire was cursed with bad luck and begins its story with a Long Season on their home planet.</LocalizationPair>
-  <LocalizationPair Name="%FactionTraitStartingAnomaly18EffectOverride">-1 [dustColored] per Population
--1 [foodColored] per Population</LocalizationPair>
+  <LocalizationPair Name="%FactionTraitStartingAnomaly18EffectOverride">-1 [dustColored] за жителя
+-1 [foodColored] за жителя</LocalizationPair>
 
   <!-- Meteor Strikes -->
   <LocalizationPair Name="%FactionTraitStartingAnomaly19Title">Meteor Strikes</LocalizationPair>
   <LocalizationPair Name="%FactionTraitStartingAnomaly19Description">This Empire was cursed with bad luck and begins its story with Meteor Strikes on their home planet.</LocalizationPair>
-  <LocalizationPair Name="%FactionTraitStartingAnomaly19EffectOverride">+1 [industryColored] per Population
--1 [scienceColored] per Population
--2 [happinessColored] per Population</LocalizationPair>
+  <LocalizationPair Name="%FactionTraitStartingAnomaly19EffectOverride">+1 [industryColored] за жителя
+-1 [scienceColored] за жителя
+-2 [happinessColored] за жителя</LocalizationPair>
 
   <!-- Polar Tempests -->
   <LocalizationPair Name="%FactionTraitStartingAnomaly20Title">Polar Tempests</LocalizationPair>
   <LocalizationPair Name="%FactionTraitStartingAnomaly20Description">This Empire was cursed with bad luck and begins its story with Polar Tempests on their home planet.</LocalizationPair>
-  <LocalizationPair Name="%FactionTraitStartingAnomaly20EffectOverride">-1 [foodColored] per Population
+  <LocalizationPair Name="%FactionTraitStartingAnomaly20EffectOverride">-1 [foodColored] за жителя
 -1 [industryColored]
 -10 [happinessColored]</LocalizationPair>
 
   <!-- Strong Magnetic Field -->
   <LocalizationPair Name="%FactionTraitStartingAnomaly21Title">Strong Magnetic Field</LocalizationPair>
   <LocalizationPair Name="%FactionTraitStartingAnomaly21Description">This Empire was cursed with bad luck and begins its story with a Strong Magnetic Field on their home planet.</LocalizationPair>
-  <LocalizationPair Name="%FactionTraitStartingAnomaly21EffectOverride">-1 [scienceColored] per Population
--1 [industryColored] per Population
+  <LocalizationPair Name="%FactionTraitStartingAnomaly21EffectOverride">-1 [scienceColored] за жителя
+-1 [industryColored] за жителя
 -10 [happinessColored]</LocalizationPair>
 
   <!-- Kessler Syndrome -->
   <LocalizationPair Name="%FactionTraitStartingAnomaly22Title">Kessler Syndrome</LocalizationPair>
   <LocalizationPair Name="%FactionTraitStartingAnomaly22Description">This Empire was cursed with bad luck and begins its story with Kessler Syndrome on their home planet.</LocalizationPair>
-  <LocalizationPair Name="%FactionTraitStartingAnomaly22EffectOverride">-1 [dustColored] per Population
--1 [industryColored] per Population
--2 [scienceColored] per Population</LocalizationPair>
+  <LocalizationPair Name="%FactionTraitStartingAnomaly22EffectOverride">-1 [dustColored] за жителя
+-1 [industryColored] за жителя
+-2 [scienceColored] за жителя</LocalizationPair>
 
   <!-- Acid Rain -->
   <LocalizationPair Name="%FactionTraitStartingAnomaly23Title">Acid Rain</LocalizationPair>
   <LocalizationPair Name="%FactionTraitStartingAnomaly23Description">This Empire was cursed with bad luck and begins its story with Acid Rain on their home planet.</LocalizationPair>
-  <LocalizationPair Name="%FactionTraitStartingAnomaly23EffectOverride">-2 [industryColored] per Population
+  <LocalizationPair Name="%FactionTraitStartingAnomaly23EffectOverride">-2 [industryColored] за жителя
 -4 [happinessColored]</LocalizationPair>
 
   <!-- Irradiated -->
   <LocalizationPair Name="%FactionTraitStartingAnomaly24Title">Irradiated</LocalizationPair>
   <LocalizationPair Name="%FactionTraitStartingAnomaly24Description">This Empire was cursed with bad luck and begins its story with an Irradiated home planet.</LocalizationPair>
-  <LocalizationPair Name="%FactionTraitStartingAnomaly24EffectOverride">-1 [scienceColored] per Population
--1 [foodColored] per Population
+  <LocalizationPair Name="%FactionTraitStartingAnomaly24EffectOverride">-1 [scienceColored] за жителя
+-1 [foodColored] за жителя
 -20 [happinessColored]</LocalizationPair>
 
   <!-- Hostile Fauna -->
@@ -493,21 +493,21 @@
   <!-- Shattered Crust -->
   <LocalizationPair Name="%FactionTraitStartingAnomaly39Title">Shattered Crust</LocalizationPair>
   <LocalizationPair Name="%FactionTraitStartingAnomaly39Description">This Empire was cursed with bad luck and begins its story with a Shattered Crust on their home planet.</LocalizationPair>
-  <LocalizationPair Name="%FactionTraitStartingAnomaly39EffectOverride">+2 [dustColored] per Population
--1 [industryColored] per Population
--2 [happinessColored] per Population</LocalizationPair>
+  <LocalizationPair Name="%FactionTraitStartingAnomaly39EffectOverride">+2 [dustColored] за жителя
+-1 [industryColored] за жителя
+-2 [happinessColored] за жителя</LocalizationPair>
 
   <!-- Poor Soil -->
   <LocalizationPair Name="%FactionTraitStartingAnomaly43Title">Poor Soil</LocalizationPair>
   <LocalizationPair Name="%FactionTraitStartingAnomaly43Description">This Empire was cursed with bad luck and begins its story with Poor Soil on their home planet.</LocalizationPair>
-  <LocalizationPair Name="%FactionTraitStartingAnomaly43EffectOverride">-3 [foodColored] per Population
+  <LocalizationPair Name="%FactionTraitStartingAnomaly43EffectOverride">-3 [foodColored] за жителя
 -20 [happinessColored]</LocalizationPair>
 
   <!-- High Gravity -->
   <LocalizationPair Name="%FactionTraitStartingAnomaly44Title">High Gravity</LocalizationPair>
   <LocalizationPair Name="%FactionTraitStartingAnomaly44Description">This Empire was cursed with bad luck and begins its story with High Gravity on their home planet.</LocalizationPair>
-  <LocalizationPair Name="%FactionTraitStartingAnomaly44EffectOverride">-1 [scienceColored] per Population
--2 [industryColored] per Population
+  <LocalizationPair Name="%FactionTraitStartingAnomaly44EffectOverride">-1 [scienceColored] за жителя
+-2 [industryColored] за жителя
 -20 [happinessColored]</LocalizationPair>
 
   <!-- Shield Regenerator -->
